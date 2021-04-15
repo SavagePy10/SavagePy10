@@ -1,2 +1,2 @@
 print "Hello, World"
-/* HELLO, PROGRAMMING WORLD */
+// HELLO, PROGRAMMING WORLD 
