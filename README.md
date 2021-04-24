@@ -5,4 +5,3 @@ HENLO! Im a starter programming
 🤯🤯 linux is very cool
 ### I love physics too. 
 
-🤔🤔 How to use kivy. 
